@@ -6,10 +6,10 @@
 
 ## Type
 
-Governance
+Governance/ Organization
 
 # Abstract 
-The WiHi DAO is the organizational structure that the WiHi community gives itself to achieve its vision to provide weather predictions anytime and anywhere on earth. It follows the principles of collective intelligence and self-organization to manage its complex 3-sided market consisting of weather data providers, data consumers and platform maintainers/ developers/ facilitators. 
+The WiHi DAO is the organizational structure that the WiHi community gives itself to achieve its vision of facilitating weather predictions everywhere on earth anytime. It follows the principles of collective intelligence and self-organization to manage its complex 3-sided market consisting of weather data providers, data consumers and platform maintainers/ developers/ facilitators. 
 
 # Specification 
 
@@ -21,10 +21,11 @@ The DAO consists of 5 layers, as illustrated in the figure above. The public can
 The core team itself is self-organized in areas of competence that radiate out into the other layers.
 
 ## Operational Rules:
-1. core team votes to add new core members or remove existing ones;
+1. Core team votes to add new core members or remove existing ones;
 2. Any core team member can open new competence areas (CA)
 3. Competence areas organize themselves
-4. Any layer can level up others until level below (in the DAO Onion)
+4. CAs can level up members until Contributor level (in the DAO Onion)
+5. CAs can grant member access to CA specific communication channels 
 5. Anyone is empowered to join any CA as a follower
 6. CA manage a (monthly) budget of tokens they can spend (can be 0). Either the CA receives tokens by an entity already owning tokens or requests them via an improvement proposal.
 7. CA can decide to “outsource” work on a token basis
@@ -50,11 +51,6 @@ The following table illustrates the rights and obligations of each layer in grea
 
 
 # Motivation
+We recognize that the WiHi system is a complex system (due to its size and interdependencies among its components) which can neither be controlled nor governed effectively with traditional hierarchical top-down management or control mechanisms. Hence, we chose the organizational form of a DAO that empowers community members to act (self-organization) and that can harness the collective intelligence of the members to steer its system parameters and actions. 
 
 
-# Rationale
-
-The purpose of WiHi’s governance is to i) enable participation of all stakeholders (incl. users); ii) enable autonomous
-improvement; and iii) prevent power concentration by any one stakeholder or a group of stakeholders. These elements, in
-combination, facilitate WiHi’s collective intelligence [Ballandies, 2023], which can manage the network successfully
-in a rapidly changing and complex environment.
