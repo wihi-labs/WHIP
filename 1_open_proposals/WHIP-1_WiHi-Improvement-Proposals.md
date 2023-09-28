@@ -25,6 +25,7 @@ Each WHIP has to have the following structure
 - Meta-infos
     - Author(s)
     - Type [technical, governance, etc.]
+    - acceptance date [when accepted and moved to closed_proposals folder]
 - Abstract [max 200 words]
 - Specification [of the concrete improvement]
 - Motivation [(of the authors) for proposing the improvement])
