@@ -1,8 +1,8 @@
-# WHIP-1: WiHi Improvement proposals
+# WHIP-2: WiHi DAO
 
 ## Author(s):
 
-[Mark Ballandies]()
+[Mark Ballandies](https://twitter.com/BallandiesMC)
 
 ## Type
 

@@ -3,13 +3,13 @@
 ## Author(s)
 [Mark Ballandies](https://twitter.com/BallandiesMC)
 
-## Type [technical, governance, etc.]
+## Type
 Organization
 
 # Abstract
-The WiHi Advisor program is a mechanism to grow WiHi’s community of active supporters.  
+The WiHi Advisor program is a mechanism to grow WiHi’s community of active supporters (see DAO Onion in WHIP-2).  
 
-It is intended to be a pool of active individuals that regularly and pro-actively *extend onocoys capabilities within the organisation*. (see DAO Onion in WHIP-2). 
+It is intended to be a pool of active individuals that regularly and pro-actively *extend onocoys capabilities within the organisation*. 
 
 This WHIP-5 specifies the structure, goals and mechanisms of the Advisor program.
 
