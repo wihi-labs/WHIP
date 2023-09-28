@@ -13,9 +13,9 @@ The WiHi DAO is the organizational structure that the WiHi community gives itsel
 
 # Specification 
 
-<img src="../0_images/wihi_DAO_onion.png" alt="drawing" width="1" height="1"/>
+<img src="0002-wihi-dao/wihi_DAO_onion.png" alt="drawing" width="1" height="1"/>
 
-![WiHi DAO onion](../0_images/wihi_DAO_onion.png)
+![WiHi DAO onion](0002-wihi-dao/wihi_DAO_onion.png)
 The DAO consists of 5 layers, as illustrated in the figure above. The public can join the DAO by following WiHi in one of its channels (e.g. Twitter, Discord, etc.). By starting to interact with members of upper layers in the DAO and/ or by owning WiHi tokens, a follower can become a friend of WiHi. Friends that actively start supporting WiHi by performing dedicated tasks for it success are becoming supporters of WiHi. Those supporters that spend a considerable amount of their time supporting WiHi become contributors. Contributors that take larger responsibility within the DAO can become core team members.
 
 The core team itself is self-organized in areas of competence that radiate out into the other layers.
