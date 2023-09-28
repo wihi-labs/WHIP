@@ -2,7 +2,7 @@
 
 ## Author(s):
 
-[Mark Ballandies]()
+[Mark Ballandies](https://twitter.com/BallandiesMC)
 [Uroš Kalabić]()
 
 ## Type
@@ -26,7 +26,7 @@ For this, they receive WiHi rewards which are taken from a community fund that i
 ## Community fund
 
 The community fund is a 3-2-multi-sig wallet that is initially filled with X WiHi tokens to finance the ambassador program. It is controlled by a subset of individuals from the community CA. In its first iteration, this group will consist of Michael, Uros, and Mark.
-Until another mechanism is proposed, the community fund is refilled and the individuals controlling the fund are re-elected by a WHIP that updates this WHIP.
+Until another mechanism is proposed, the community fund is refilled and the individuals controlling the fund are re-elected by a WHIP.
 
 ## Application/ Acceptance of an ambassador
 

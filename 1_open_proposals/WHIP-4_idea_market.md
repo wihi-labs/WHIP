@@ -6,7 +6,7 @@
 ## Type 
 Organization
 
-# Abstract [max 200 words]
+# Abstract 
 The idea market is a tool of the WiHi DAO to harness the collective intelligence and facilitate the self-organization of its community. The community can crowdsource ideas/tasks leading to WiHi's success and fund their execution in a decentralized/ bottom-up way. It is a public board illustrating tasks that need to be performed.
 
 # Specification 
@@ -46,7 +46,7 @@ In order to start the collective intelligence and self-organization process of t
 # Motivation 
 
 Collective intelligence and self-organizaiton have been identified to govern and control complex systems more effectively than top-down approaches (e.g. see [1](https://www.researchgate.net/publication/364949613_Democracy_by_Design_Perspectives_for_Digitally_Assisted_Participatory_Upgrades_of_Society) and [2](https://link.springer.com/book/10.1007/978-3-030-62330-2)) as demonstrated for instance by Bitcoin.
-The idea market will complement the improvement proposal mechanism (WHIP-1) to develop the WiHi system. In particular, it is lower-level tool that enables anyone to express ideas, to reason about them in privacy, and to see transparently the activities/ tasks at hand to make WiHi a success (as required for collective intelligence, see [3](https://medium.com/coinmonks/complex-systems-part-2-managing-complexity-with-bottom-up-solutions-9d6fadd88cc4)). Moreover, it enables anyone to act and to provide feedback to the system (as required for self-organization, see [3](https://medium.com/coinmonks/complex-systems-part-2-managing-complexity-with-bottom-up-solutions-9d6fadd88cc4)).
+The idea market will complement the improvement proposal mechanism (WHIP-1) to develop the WiHi system. In particular, it is a lower-level tool that enables anyone to express ideas, to reason about them in privacy, and to see transparently the activities/ tasks at hand to make WiHi a success (as required for collective intelligence, see [3](https://medium.com/coinmonks/complex-systems-part-2-managing-complexity-with-bottom-up-solutions-9d6fadd88cc4)). Moreover, it enables anyone to act and to provide feedback to the system (as required for self-organization, see [3](https://medium.com/coinmonks/complex-systems-part-2-managing-complexity-with-bottom-up-solutions-9d6fadd88cc4)).
 
 
 # Rationale
