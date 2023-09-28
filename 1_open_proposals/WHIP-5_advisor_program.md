@@ -50,22 +50,17 @@ Different reward schemes are possible and can be combined on a case-by-case basi
 
 The dedicated WiHi ambassador channel (see WHIP-3) on discord is renamed to supporter channel to which advisors also have access that is visible by all supporters, contributors and core team members of WiHi.
 
-Ambassadors have the right 
-- to call themselves a “WiHi Ambassador”
+Advisors have the right 
+- to call themselves a “WiHi Advisor”
 - to access the Logo and CIs folder of WiHi
 - To have the supporter status on discord
 - To view the [accepted supporters folder](https://drive.google.com/drive/folders/1s_nJuHrl7OtXMpqe-kM3KV9S9jRflCJO?usp=sharing)  
+- To gain access to specific CA channels if decided by a CA
 
-Ambassadors have the duty
-- to regularly and pro-actively promote and/ or support WiHi meaningfully and or visibly to the outside
-- to actively participate in the biweekly WiHi ambassador call and/or the WiHi ambassador channel on discord
+Advisors have the duty
+- to share their expert knowledge with the WiHi community when needed
 - to make sure that they are not perceived as official representatives of WiHi but as active community members. In particular, it has to be clear that the views shared of them are their own and do not represent WiHi.
 
 
+# Motivation 
 
-
-
-
-# Motivation [(of the authors) for proposing the improvement]
-
-# (Rationale [of design decisions within the specification])
