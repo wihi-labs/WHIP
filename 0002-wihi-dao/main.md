@@ -51,6 +51,6 @@ The following table illustrates the rights and obligations of each layer in grea
 
 
 # Motivation
-We recognize that the WiHi system is a complex system (due to its size and interdependencies among its components) which can neither be controlled nor governed effectively with traditional hierarchical top-down management or control mechanisms. Hence, we chose the organizational form of a DAO that empowers community members to act (self-organization) and that can harness the collective intelligence of the members to steer its system parameters and actions. 
+We recognize that the WiHi system is a complex system (due to its size and interdependencies among its components) which can neither be controlled nor governed effectively with traditional hierarchical top-down management or control mechanisms (see [1](https://www.researchgate.net/publication/364949613_Democracy_by_Design_Perspectives_for_Digitally_Assisted_Participatory_Upgrades_of_Society), [2](https://link.springer.com/book/10.1007/978-3-030-62330-2) or [3](https://medium.com/coinmonks/complex-systems-part-2-managing-complexity-with-bottom-up-solutions-9d6fadd88cc4)). Hence, we chose the organizational form of a DAO that empowers community members to act (self-organization) and that can harness the collective intelligence of the members via digital democracy to steer its system parameters and actions. 
 
 
