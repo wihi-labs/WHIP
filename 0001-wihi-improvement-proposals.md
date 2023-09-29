@@ -39,12 +39,13 @@ For the time being, a champion has to be a core team member.
 
 The process for getting an WHIP accepted is as follows
 
-1. The champion creates a WHIP by creating a markdown document that coheres to the above mentioned structure and by creating a pull request for this document to the “1_open_proposals” in the WHIP repository on github
+1. The champion creates a WHIP by creating a markdown document that coheres to the above mentioned structure and by creating a pull request for this document to the WHIP repository on github
+2. A mod
 2. The champion shares with others the document via the “WHIP” channel in discord as a thread. 
 3. Discussions/ comments *in writing* of the WHIP will only be performed within the discord thread or directly within the shared document
 4. The champions are responsible for obtaining support of the WHIP (e.g. via community calls, etc.)
 5. An WHIP is decided on as follows
-    1. The champion informs the core team that the WHIP is ready to be decided on by i) stating this clearly in the WHIP’s thread in the WHIP channel on discord. In the notification, the champion must
+    1. The champion informs the core team that the WHIP is ready to be decided on by i) stating this clearly in the WHIP’s thread in the WHIP channel on discord (WHIPs status is changed to "Voting Open"). In the notification, the champion must
         - either state the result of the decision (accepted/ rejected) 
         - or open the voting process on the WHIP.
     2. In either case, a consolidation phase starts:
