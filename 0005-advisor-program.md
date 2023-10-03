@@ -14,7 +14,7 @@ It is intended to be a pool of active individuals that regularly and pro-activel
 This WHIP-5 specifies the structure, goals and mechanisms of the Advisor program.
 
 
-# Specification [of the concrete improvement]
+# Specification
 
 Advisors must regularly and pro-actively extend onocoys capabilities within the organisation (see DAO Onion in WHIP-2). 
 

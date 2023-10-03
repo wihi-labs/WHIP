@@ -66,5 +66,5 @@ The core motivation for the illustrated WHIP process is to have a simplistic but
 
 # Rationale
 
-It is okay to restrict the decision power for initiation of proposals and decision making to the core team at the moment as these are the individuals that represent by far the greatest voting power in the WiHi ecosystem. 
+It is okay to restrict the decision power for initiation of proposals and decision making to the core team at the moment as these are the individuals that represent by far the greatest voting power in the WiHi ecosystem. As soons as other individuals will have voting power in the system, this will be adjusted with priority.
 
