@@ -1,7 +1,7 @@
 # WHIP-0006: Voting 
 
 ## Author(s)
-Mark Ballandies
+[Mark Ballandies](https://twitter.com/BallandiesMC)
 
 ## Type [governance]
 
@@ -17,7 +17,7 @@ The figure above illustrates the voting mechanism applied in WiHi.
 
 Community members who possess WiHi tokens can anonymously delegate their tokens to identified (partially doxed) delegates within the system. 
 
-Delegates use their delegated tokens to vote on proposals, with voting power proportional to the square root of the tokens they control and those which were delegated to them. 
+Delegates use their delegated tokens to vote on proposals, with voting power proportional to the square root of the tokens they control and those which were delegated to them (e.g., 1 token unit equals 1 vote, but 4 token units equal 2 votes, 9 tokens – 3, and so on). 
 All community members have the opportunity to submit vote proposals. 
 
 Initially, super majority will be employed for decision-making (>66% of the voting power is required to accept a proposal), but alternative voting mechanisms will be explored in the future to better align with community sentiment and prevent the "Tyranny of the Majority."
