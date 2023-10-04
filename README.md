@@ -12,6 +12,8 @@ WiHi Improvement Proposals
 | 3 | [Ambassador Program](0003-ambassador-program.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img>   |
 | 4 | [Idea Market](0004-idea-market.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img>   |
 | 5 | [Advisor Program](0005-advisor-program.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img>   |
+| 6 | [Tokenomics](0006-tokenomics/main.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
+| 7 | [Voting](0007-voting/main.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
 
 ## Status Key
 
