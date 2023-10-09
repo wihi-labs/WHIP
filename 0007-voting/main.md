@@ -1,4 +1,4 @@
-# WHIP-0006: Voting 
+# WHIP-0007: Voting 
 
 ## Author(s)
 [Mark Ballandies](https://twitter.com/BallandiesMC)
