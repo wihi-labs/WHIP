@@ -28,7 +28,7 @@ This and further specifications of the voting mechanism will be illustrated in g
 
 In order to grow WiHi's community with intrinsically motivate individuals we need to be able to show them how we want to let them participate in the governance of the system. 
 
-# Rationale [of design decisions within the specification]
+# Rationale 
 
 The primary objective of WiHi's governance can be summarized as follows:
 
