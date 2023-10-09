@@ -1,4 +1,4 @@
-# WHIP
+# WHIPs - WiHi Improvement Proposals
 
 WiHi Improvement Proposals (WHIPs) are the main mechanism for WiHi to reach organization-wide decisions that are binding to all. 
 
