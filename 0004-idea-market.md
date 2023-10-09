@@ -14,27 +14,27 @@ The idea market is a tool of the WiHi DAO to harness the collective intelligence
 The tool should have the following capabilities:
 
 1. Anyone can submit a task/ idea worth of implementation (e.g. Create a list of DePIN meetups, implement a new dashboard, create public weather station overview, etc.). For this, the following needs to be specified:
-- Title of task
-- Description of task
-- Category of task (optional)
-- Deliverables/ Milestones
-- The reward (lock tokens for payout)
-- The reviewer(s) [those who evaluate if task has been completed]
-- Mode of decision: either by reviewer evaluation or by voting of those who backed the task with tokens
-- A deadline until when task has to be completed (either fixed, or dependent on starting date)
+    - Title of task
+    - Description of task
+    - Category of task (optional)
+    - Deliverables/ Milestones
+    - The reward (lock tokens for payout)
+    - The reviewer(s) [those who evaluate if task has been completed]
+    - Mode of decision: either by reviewer evaluation or by voting of those who backed the task with tokens
+    - A deadline until when task has to be completed (either fixed, or dependent on starting date)
 
 2. Anyone can back an idea with WiHi or other tokens (tokens get locked in the smart contract)
 3. List is sorted based on most stake 
 4. Anyone can work on a task (potentially filters can be applied, e.g. a contributor, a supporter, a frieds needs to do it (see WHIP-2), etc.) 
-- For this a volunteer/ a group of volunteers has to indicate willingness to work on the task by entering their public address
-- The initiator and/ or the backers (specified by initiator) accept the volunteer(s) (task gets locked preventing others to take it)
+    - For this a volunteer/ a group of volunteers has to indicate willingness to work on the task by entering their public address
+    - The initiator and/ or the backers (specified by initiator) accept the volunteer(s) (task gets locked preventing others to take it)
 5. Once a task is completed, the volunteer(s) is marking it as complete (with the registered public address)
 6. Reviewer checks contribution and gives recommendation (e.g. task completed, or not)
 7. All people who staked tokens vote if task is completed (Optional, default: Reviewers evaluation is the decision)
-- In case of acceptance, funds are released to the implementor
+    - In case of acceptance, funds are released to the implementor
 8. In case of disagreement on the decision of the idea by backers (by anyone) in case of token-decision mode, a vote by all token holders/ the whole DAO is performed (a contester needs to stake a minimum amount of tokens, but receives a (large) compensation if his contest is accepted) 
 9. Modifications
-- Potentially, several payouts for a task (e.g initial release and on completion)
+    - Potentially, several payouts for a task (e.g initial release and on completion)
 
 In order to start the collective intelligence and self-organization process of the WiHi DAO, for the time being, the above illustrated process will be modified such:
 
