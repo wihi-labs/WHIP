@@ -8,7 +8,7 @@ WiHi Improvement Proposals (WHIPs) are the main mechanism for WiHi to reach orga
 WHIPs are an incluse, participatory, transparent, (optional) anonymous and open process to shape the WiHi system. These characteristics are required to faciliate the collective intelligence of the WiHi system which relies on [free access to information, private/ unbiased/ unpressured reasoning, and free speech](https://medium.com/coinmonks/complex-systems-part-2-managing-complexity-with-bottom-up-solutions-9d6fadd88cc4). This collective intelligence of our community will ultimately drive the system to achieve and sustain our vision: *weather and climate predictions anytime and anywhere*.
 
 Our WHIPs utilize [digital democracy](https://www.sciencedirect.com/science/article/pii/S1877750323001217) mechanisms, such as various deliberation and voting mechanisms, and are continuously adapted to the latest technology.
-Hence, the WHIP process itself is subject to changes that are defined in future WHIPs. 
+Hence, the WHIP process itself is subject to changes that are defined in future WHIPs. Please feel invited to shape the way how WiHi forms decisions!
 
 
 ## Index of proposals
