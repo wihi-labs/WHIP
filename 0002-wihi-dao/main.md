@@ -9,7 +9,7 @@
 Governance/ Organization
 
 # Abstract 
-The WiHi DAO is the organizational structure that the WiHi community gives itself to achieve its vision of facilitating weather predictions everywhere on earth anytime. It follows the principles of collective intelligence and self-organization to manage its complex 3-sided market consisting of weather data providers, data consumers and platform maintainers/ developers/ facilitators. 
+The WiHi DAO is the organizational structure that the WiHi community gives itself to achieve its vision of facilitating weather and climate predictions anytime anywhere. It follows the principles of collective intelligence and self-organization to manage its complex 3-sided market consisting of weather data providers, data consumers and platform maintainers/ developers/ facilitators. 
 
 # Specification 
 
@@ -26,7 +26,7 @@ The core team itself is self-organized in areas of competence that radiate out i
 4. CAs can level up members until Contributor level (in the DAO Onion)
 5. CAs can grant member access to CA specific communication channels 
 5. Anyone is empowered to join any CA as a follower
-6. CA manage a (monthly) budget of tokens they can spend (can be 0). Either the CA receives tokens by an entity already owning tokens or requests them via an improvement proposal.
+6. CA manage a (monthly) budget of tokens they can spend (can be 0). Either the CA receives tokens by an entity already owning tokens or requests them via an improvement proposal from the treasury.
 7. CA can decide to “outsource” work on a token basis
 8. Fiat compensation requires alignment within core team
 

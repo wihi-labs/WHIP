@@ -40,31 +40,33 @@ For the time being, a champion has to be a core team member.
 The process for getting an WHIP accepted is as follows
 
 1. The champion creates a WHIP by creating a markdown document that coheres to the above mentioned structure and by creating a pull request for this document to the WHIP repository on github
-2. A mod
-2. The champion shares with others the document via the “WHIP” channel in discord as a thread. 
-3. Discussions/ comments *in writing* of the WHIP will only be performed within the discord thread or directly within the shared document
-4. The champions are responsible for obtaining support of the WHIP (e.g. via community calls, etc.)
-5. An WHIP is decided on as follows
-    1. The champion informs the core team that the WHIP is ready to be decided on by i) stating this clearly in the WHIP’s thread in the WHIP channel on discord (WHIPs status is changed to "Voting Open"). In the notification, the champion must
+2. A moderator accepts the pull request and creates a corresponding "issue"
+2. The moderator shares with others the document via the “WHIP” channel in discord as a thread. 
+3. Official Comments *in writing* of the WHIP which must be adressed by the author will be performed via the corresponding "issue" on github
+4. The champions are responsible for obtaining support of the WHIP (e.g. via community calls, discussions on discord in the whip's thread, etc.)
+5. A WHIP is decided on as follows
+    1. The champion informs the core team that the WHIP is ready to be decided on by stating this clearly in the WHIP’s thread in the WHIP channel on discord. In the notification, the champion must
         - either state the result of the decision (accepted/ rejected) 
         - or open the voting process on the WHIP.
-    2. In either case, a consolidation phase starts:
+    2. WHIPs status is changed to "Voting Open" by a moderator
+    2. In either of the two cases, a consolidation phase starts:
         - In case i) (stated result) a one week consolidation phase starts. The decision gets accepted if no core-team member raises a veto in the discord thread of the WHIP or if all core team members approve the decision within the consolidation phase. In case of a veto, the voting process starts with the two week consolidation phase starting from the moment where the veto has been raised.
         - In case ii) each team member can cast their vote (accept/ reject/ abstain) via the discord thread of the WHIP. Non-voting is counted as abstaining. For the time being, core team members have one vote each and simple majority decides.  
 6. After a decision has been reached, the WHIP is moved to the “2_closed_proposal” folders, in the title of the WHIP in square brackets the decision is noted (e.g. WHIP-1: improvement proposals [ACCEPTED]), and a pdf has to be created of it. The name of the WHIP is as follows: WHIP-X-short-title-[accepted/ rejected]
 The WHIP is accepted after the link to the pdf has been shared via the discord thread of that WHIP. Afterwards the thread has to be closed. 
+7. A moderator changes the status of the WHIP to the corresponding status on github.
 
 An update of this process has to follow the specified process.
 
 # Motivation
 
-As agreed in the team call at September 26th, 2023, we want to have WHIPs as the main tool to structure our thoughts and find agreement on system design features. In particular, WHIPs have the purpose to inform (new) community members about the taken decisions that resulted in the current system design.
+As agreed in the team call at September 26th, 2023, we want to have WHIPs as the main tool to structure our thoughts and find agreement on system design features and system development. In particular, WHIPs have the purpose to inform (new) community members about the taken decisions that resulted in the current system layout.
 
-An improvement proposal system has been chosen to facilitate this as it has been demonstrated by other web3 systems to be effective to govern decentralized communities. 
+An improvement proposal system has been chosen to facilitate this as it has been demonstrated by other web3 systems to be effective to govern decentralized communities. In particular, it is a tool that enables bottom-up initiatives to foster a top-level decision of the WiHi DAO which has to be followed/ implemented by all members. 
 
-The core motivation for the illustrated WHIP process is to have a simplistic but effective process for the core team to reach decisions. 
+The core motivation for the currently illustrated WHIP process is to have a simplistic but effective process for the core team to reach decisions transparently, involving already the community. 
 
 # Rationale
 
-It is okay to restrict the decision power for initiation of proposals and decision making to the core team at the moment as these are the individuals that represent by far the greatest voting power in the WiHi ecosystem. As soons as other individuals will have voting power in the system, this will be adjusted with priority.
+It is okay to restrict the decision decision making to the core team at the moment as these are the individuals that represent by far the greatest voting power in the WiHi ecosystem. As soons as other individuals will have voting power in the system, this will be adjusted with priority.
 
