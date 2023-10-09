@@ -25,8 +25,8 @@ Initially, super majority will be employed for decision-making (>66% of the voti
 This and further specifications of the voting mechanism will be illustrated in greater detail in follow-up WHIPs.
 
 # Motivation
-
-In order to grow WiHi's community with intrinsically motivate individuals we need to be able to show them how we want to let them participate in the governance of the system. 
+WHIP-1 illustrates the how improvement proposals are currently decided on. In the future the taking of such and similar decisions (e.g. calibration of system parameters) should be extended to all WiHi token holders (in order to harness their collective intelligence). 
+This specification illustrates the high-level mechanism of how such votings should be performed. In particular,  it shows the intrinsically motivate individuals of the WiHi community how they will be able to participate in the shaping of the WiHi system.  
 
 # Rationale 
 
