@@ -1,8 +1,20 @@
 # WHIP
 
-WiHi Improvement Proposals
+WiHi Improvement Proposals (WHIPs) are the main mechanism for WiHi to reach organization-wide decisions that are binding to all. 
+
+[WHIP-1](https://github.com/wihi-labs/WHIP/blob/main/0001-wihi-improvement-proposals.md) illustrates the mechanism of how WHIPs are created, discussed and decided. Everyone is encouraged to submit WHIPs. If you are unsure how to do so, please come to our [discord](https://discord.gg/wihi) and ask your questions. We will gladly support you in creating your first WHIP!
+
+WHIPs are an incluse, participatory, transparent, (optional) anonymous and open process to shape the WiHi system. These characteristics are required to faciliate the collective intelligence of the WiHi system which relies on [free access to information, private/ unbiased/ unpressured reasoning and free speech](https://medium.com/coinmonks/complex-systems-part-2-managing-complexity-with-bottom-up-solutions-9d6fadd88cc4) and which will eventually steer the network such that it is going to provide weather and climate predictions anytime and anywhere.
+
+WHIPs utilize mechanisms from digital democracy such as different deliberation and voting mechanisms.
+
+The WHIP process itself can be subject to changes that will be defined in future WHIPs.
+
+
 
 ## Index of proposals
+
+The following listing of WHIPs illustrates the current form of the WiHi system and the history of how this was achieved.
 
 <!-- prettier-ignore -->
 | ID | Title | Status |
