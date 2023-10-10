@@ -1,6 +1,6 @@
 # WHIPs - WiHi Improvement Proposals
 
-WiHi Improvement Proposals (WHIPs) are the main mechanism for WiHi to reach organization-wide decisions that are binding to all. 
+WiHi Improvement Proposals (WHIPs) are the main mechanism for WiHi to reach organization-wide decisions that are binding to all. (We also have a tool for self-organization that does not rely on organization-wide consensus: The [idea market](https://docs.google.com/spreadsheets/d/1wuGzScmRl3CWYeUNiC2YelkmWRnv-Lz1XqUjKBnyoY0/edit?usp=sharing) which was introduced in [WHIP-0004](https://github.com/wihi-labs/WHIP/blob/main/0004-idea-market.md).
 
 [WHIP-1](https://github.com/wihi-labs/WHIP/blob/main/0001-wihi-improvement-proposals.md) illustrates the mechanism of how WHIPs are created, discussed and decided. Everyone is encouraged to submit WHIPs. If you are unsure how to do so, please come to our [discord](https://discord.gg/wihi) and ask your questions. 
 *We will gladly support you in creating your first WHIP!*
