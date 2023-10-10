@@ -1,11 +1,12 @@
 # WHIPs - WiHi Improvement Proposals
 
-WiHi Improvement Proposals (WHIPs) are the main mechanism for WiHi to reach organization-wide decisions that are binding to all. (We also have a tool for self-organization that does not rely on organization-wide consensus: The [idea market](https://docs.google.com/spreadsheets/d/1wuGzScmRl3CWYeUNiC2YelkmWRnv-Lz1XqUjKBnyoY0/edit?usp=sharing) which was introduced in [WHIP-0004](https://github.com/wihi-labs/WHIP/blob/main/0004-idea-market.md)).
+WiHi Improvement Proposals (WHIPs) are the main mechanism for WiHi to reach organization-wide decisions that are binding to all.
 
 [WHIP-1](https://github.com/wihi-labs/WHIP/blob/main/0001-wihi-improvement-proposals.md) illustrates the mechanism of how WHIPs are created, discussed and decided. Everyone is encouraged to submit WHIPs. If you are unsure how to do so, please come to our [discord](https://discord.gg/wihi) and ask your questions. 
 *We will gladly support you in creating your first WHIP!*
 
 WHIPs are an inclusive, participatory, transparent, (optional) anonymous and open process to shape the WiHi system. These characteristics are required to faciliate the collective intelligence of the WiHi system which relies on [free access to information, private/ unbiased/ unpressured reasoning, and free speech](https://medium.com/coinmonks/complex-systems-part-2-managing-complexity-with-bottom-up-solutions-9d6fadd88cc4). This collective intelligence of our community will ultimately drive the system to achieve and sustain our vision: *weather and climate predictions anytime and anywhere*.
+Besides WHIPs, we also have a tool for self-organization that does not rely on organization-wide consensus: The [idea market](https://docs.google.com/spreadsheets/d/1wuGzScmRl3CWYeUNiC2YelkmWRnv-Lz1XqUjKBnyoY0/edit?usp=sharing) which was introduced in [WHIP-0004](https://github.com/wihi-labs/WHIP/blob/main/0004-idea-market.md).
 
 Our WHIPs utilize [digital democracy](https://www.sciencedirect.com/science/article/pii/S1877750323001217) mechanisms, such as various deliberation and voting mechanisms, and are continuously adapted to the latest technology.
 Hence, the WHIP process itself is subject to changes that are defined in future WHIPs. Please feel invited to shape the way how WiHi forms decisions!
