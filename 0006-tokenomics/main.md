@@ -18,7 +18,7 @@ WiHi follows DePIN industry best practice by using a deflationary burn-and-mint 
 
 ![Token Flow](1_token_flow_alt.png)
 
-The WiHi token is awarded to weather and climate data providers (refered to in the followin as *miners*) in exchange for the data provided to the platform. The WiHi token gives access to the system governance and the services on the platform. The latter is achieved by letting the swap of WiHi tokens for data credits be the only means to receive credits in the system, which in turn gives access to the system services. The swap is performed via an oracle in such a way that the data credits have a fixed price denominated in a FIAT currency (e.g. US Dollar). 
+The WiHi token is awarded to weather and climate data providers (referred to in the following as *miners*) in exchange for the data provided to the platform. The WiHi token gives access to the system governance and the services on the platform. The latter is achieved by letting the swap of WiHi tokens for data credits be the only means to receive credits in the system, which in turn gives access to the system services. The swap is performed via an oracle in such a way that the data credits have a fixed price denominated in a FIAT currency (e.g. US Dollar). 
 
 ![Data credits](token_design_dc.png)
 Data credits are an uncapped non-transferable token that are burned whenever they are used to access system services.
@@ -39,7 +39,7 @@ The WiHi token supply is capped at 1,44144 Billion (2^8 * 3^2 * 5^4 * 7^1 * 11^1
 
 
 # Motivation
-WiHi decided to be a token project. This document facilitates the basis for the first creation of these tokens. The need for having this layed out is currently becoming apparent in the community build-up activities.   
+WiHi decided to be a token project. This document facilitates the basis for the first creation of these tokens. The need for having this laid out is currently becoming apparent in the community build-up activities.   
 
 # Rationale 
 In this way, the system can guarantee stable in Fiat denominated prices (e.g. a specific quality of data always cost for instance 1 USD). 

@@ -22,14 +22,14 @@ The WHIP process begins with a new idea for WiHi. Each potential WHIP must have 
 
 Each WHIP has to have the following structure
 
-- Meta-infos
+- Meta-info
     - Author(s)
     - Type [technical, governance, etc.]
     - acceptance date [when accepted and moved to closed_proposals folder]
 - Abstract [max 200 words]
 - Specification [of the concrete improvement]
-- Motivation [(of the authors) for proposing the improvement])
-- (Rationale [of design decisions within the specification])
+- Motivation [(of the authors) for proposing the improvement]
+- Rationale [of design decisions within the specification]
 
 Further (sub)-sections can be added.
 
@@ -42,7 +42,7 @@ The process for getting an WHIP accepted is as follows
 1. The champion creates a WHIP by creating a markdown document that coheres to the above mentioned structure and by creating a pull request for this document to the WHIP repository on github
 2. A moderator accepts the pull request and creates a corresponding "issue"
 2. The moderator shares with others the document via the “WHIP” channel in discord as a thread. 
-3. Official Comments *in writing* of the WHIP which must be adressed by the author will be performed via the corresponding "issue" on github
+3. Official Comments *in writing* of the WHIP which must be dressed by the author will be performed via the corresponding "issue" on github
 4. The champions are responsible for obtaining support of the WHIP (e.g. via community calls, discussions on discord in the whip's thread, etc.)
 5. A WHIP is decided on as follows
     1. The champion informs the core team that the WHIP is ready to be decided on by stating this clearly in the WHIP’s thread in the WHIP channel on discord. In the notification, the champion must
@@ -68,5 +68,5 @@ The core motivation for the currently illustrated WHIP process is to have a simp
 
 # Rationale
 
-It is okay to restrict the decision decision making to the core team at the moment as these are the individuals that represent by far the greatest voting power in the WiHi ecosystem. As soons as other individuals will have voting power in the system, this will be adjusted with priority.
+It is okay to restrict the decision decision making to the core team at the moment as these are the individuals that represent by far the greatest voting power in the WiHi ecosystem. As soon as other individuals will have voting power in the system, this will be adjusted with priority.
 

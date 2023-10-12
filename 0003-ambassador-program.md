@@ -33,7 +33,7 @@ Until another mechanism is proposed, the community fund is refilled and the indi
 In order to become an ambassador, the individual has to be nominated by a core team member (the promoter). In case the nomination has support of at least 2
 community fund multi-sig members, the promoter negotiates the terms and condition of the individuals ambassador role, summarizes
 them in an one-Pager that illustrates the i) goals, ii) reward amount, iii) contact details of the ambassador, and stores the
-onePager in the [open proposals folder](https://drive.google.com/drive/folders/164We6FinxvUBoI_dF00Kz2rw7c5gsyqf?usp=sharing). The naming of the one pager is ambassador-ID-NameOfAmbassador (where ID is a continous index according to the supporter table)
+onePager in the [open proposals folder](https://drive.google.com/drive/folders/164We6FinxvUBoI_dF00Kz2rw7c5gsyqf?usp=sharing). The naming of the one pager is ambassador-ID-NameOfAmbassador (where ID is a continuous index according to the supporter table)
 If the necessary minimum of supporting community fund multi-sig members support the proposal (supporting members need to be
 named in the onePager), the ambassador is accepted (which is signaled by storing the pdf of the onePager in the [accepted proposals folder](https://drive.google.com/drive/folders/1s_nJuHrl7OtXMpqe-kM3KV9S9jRflCJO?usp=sharing)) and the details are entered in the 
 [list](https://docs.google.com/spreadsheets/d/1qgRbz1v1Pr6EUpWY8iiX_MVQecFiP1KW0tm6C4wx-l8/edit?usp=sharing). The ambassador has to be announced in a channel of the supporter category on discord.
