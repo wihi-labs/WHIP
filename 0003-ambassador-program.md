@@ -1,4 +1,4 @@
-# WHIP-1: Ambassador Program
+# WHIP-3: Ambassador Program
 
 ## Author(s):
 
@@ -25,14 +25,13 @@ For this, they receive WiHi rewards which are taken from a community fund that i
 
 ## Community fund
 
-The community fund is a 3-2-multi-sig wallet that is initially filled with 250000 WiHi tokens to finance programs that are located within/ target the friend and supporter layers in the DAO onion. It is controlled by a subset of individuals from the community CA. In its first iteration, this group will consist of Michael, Uros, and Mark.
-Until another mechanism is proposed, the community fund is refilled and the individuals controlling the fund are re-elected by a WHIP.
+The community fund is a 3-2-multi-sig wallet that is initially filled with 250000 WiHi points (WIPO - WiHi's test tokens) to support programs that are located within/ target the friend and supporter layers in the DAO onion. It is controlled by a subset of individuals from the community CA. In its first iteration, this group will consist of Michael, Uros, and Mark.
+Until another mechanism is proposed, the community fund is refilled by a WHIP. The individuals controlling the fund are either re-elected by a WHIP or assigned by those already controlling the fund.
 
 ## Application/ Acceptance of an ambassador
 
-In order to become an ambassador, the individual has to be nominated by a core team member (the promoter). In case the nomination has support of at least 2
-community fund multi-sig members, the promoter negotiates the terms and condition of the individuals ambassador role, summarizes
-them in an one-Pager that illustrates the i) goals, ii) reward amount, iii) contact details of the ambassador, and stores the
+In order to become an ambassador, the individual has to be nominated by a supporter, contributor or core team member (the promoter). In case the nomination has support of at least 2
+community fund multi-sig members, the promoter negotiates the terms and condition of the individuals ambassador role, summarizes them in an one-Pager that illustrates the i) goals, ii) reward amount, iii) contact details of the ambassador, and stores the
 onePager in the [open proposals folder](https://drive.google.com/drive/folders/164We6FinxvUBoI_dF00Kz2rw7c5gsyqf?usp=sharing). The naming of the one pager is ambassador-ID-NameOfAmbassador (where ID is a continuous index according to the supporter table)
 If the necessary minimum of supporting community fund multi-sig members support the proposal (supporting members need to be
 named in the onePager), the ambassador is accepted (which is signaled by storing the pdf of the onePager in the [accepted proposals folder](https://drive.google.com/drive/folders/1s_nJuHrl7OtXMpqe-kM3KV9S9jRflCJO?usp=sharing)) and the details are entered in the 
@@ -49,7 +48,7 @@ Different reward schemes are possible and can be combined on a case-by-case basi
     - Monthly/ yearly/ one-time token distribution that may be vested [optional]
     - Monthly/ yearly/ one time token compensation that are locked and vested similar to team compensation [required]
 2. *Prizes*
-    - Received for achieving specified targets (defined, discussed, approved during community build-up calls) and agreed to with an ambassador in writing
+    - Received for achieving specified targets (defined, discussed, approved during community build-up calls) and shared among als supporters via a task list
     - Related to network growth goals such as obtaining clients and/or on-boarding miners
     - Award amounts are directly related to benefit accrued to WiHi; rewards amounts can be paid out in proportion to the benefit (e.g., a certain amount of WiHi tokens per miner on-boarded) or a one-time payout for achieving a certain goal (e.g., a certain amount of WiHi tokens for on-boarding a certain amount of miners)
 
@@ -61,6 +60,7 @@ Ambassadors have the right
 - to access the Logo and CIs folder of WiHi
 - To have the supporter status on discord
 - To view the [accepted supporter folder](https://drive.google.com/drive/folders/1s_nJuHrl7OtXMpqe-kM3KV9S9jRflCJO?usp=sharing)  
+- To view the [WiHi supporter folder](https://drive.google.com/drive/folders/16WpoVipd8nZKDedgH_gYlPewLayIjupP?usp=sharing)
 
 Ambassadors have the duty
 - to regularly and pro-actively promote and/ or support WiHi meaningfully and or visibly to the outside

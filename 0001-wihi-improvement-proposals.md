@@ -25,7 +25,8 @@ Each WHIP has to have the following structure
 - Meta-info
     - Author(s)
     - Type [technical, governance, etc.]
-    - acceptance date [when decision became final on-chain]
+    - acceptance date [when decision becomes final]
+    - link/ address of proposal on-chain [when decision becomes final]
 - Abstract [max 200 words]
 - Specification [of the concrete improvement]
 - Motivation [(of the authors) for proposing the improvement]
