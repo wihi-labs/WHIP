@@ -12,7 +12,7 @@ Governance
 
 A WiHi Improvement Proposal (WHIP) is a (technical) design document providing information to the WiHi community, or describing a new feature for WiHi or its processes or environment. The WHIP should provide a concise (technical) specification of the feature and a motivation for the feature.
 
-We intend WHIPs to be the primary mechanisms for proposing new features, for collecting community input on an issue, and for documenting the design decisions that have gone into WiHi. The WHIP champion is responsible for building consensus within the community and documenting dissenting opinions.
+WHIPs are the primary mechanism of the WiHi DAO for achieving community-wide consensus/ decisions. It is a mechanism to propose new features, to gather community input on a topic, and to document the design decisions that have gone into WiHi - once accepted a WHIP becomes binding for the WiHi DAO. The WHIP champion is responsible for building consensus within the community and documenting dissenting opinions.
 
 WHIP-1 is sketching a preliminary mechanism for WHIPs to empower the core team to reach design decisions of WiHi more efficiently. It is envisioned that this WHIP will be replaced once the process will be opened for larger parts of the community or shortcomings are identified.
 
@@ -25,7 +25,7 @@ Each WHIP has to have the following structure
 - Meta-info
     - Author(s)
     - Type [technical, governance, etc.]
-    - acceptance date [when accepted and moved to closed_proposals folder]
+    - acceptance date [when decision became final on-chain]
 - Abstract [max 200 words]
 - Specification [of the concrete improvement]
 - Motivation [(of the authors) for proposing the improvement]
@@ -35,26 +35,23 @@ Further (sub)-sections can be added.
 
 The champion is the one editing the proposed WHIP, but can allow others to join editing in which case these have to be added to the list of authors.
 
-For the time being, a champion has to be a core team member. 
+A champion can be any community member.
 
 The process for getting an WHIP accepted is as follows
 
 1. The champion creates a WHIP by creating a markdown document that coheres to the above mentioned structure and by creating a pull request for this document to the WHIP repository on github
-2. A moderator accepts the pull request and creates a corresponding "issue"
+2. A moderator accepts the pull request and creates a corresponding "issue" if the formal requirements are met and there is no inappropriate behavior (There is zero-tolerance for advertisements, harassment, trolling, racism, sexism, homophobia, NSFW content and hate speech).
 2. The moderator shares with others the document via the “WHIP” channel in discord as a thread. 
-3. Official Comments *in writing* of the WHIP which must be dressed by the author will be performed via the corresponding "issue" on github
-4. The champions are responsible for obtaining support of the WHIP (e.g. via community calls, discussions on discord in the whip's thread, etc.)
+3. Official comments from community members on the WHIP, which must be addressed by the author(s) *in writing* within the WHIP document, will be done via the corresponding "issue" on Github - clarifications/sharing of ideas can be done via Discord or other venues.
+4. Champions are responsible for getting support for the WHIP (e.g. through calls in the community, discussions on Discord in the whip's thread, etc.).
 5. A WHIP is decided on as follows
-    1. The champion informs the core team that the WHIP is ready to be decided on by stating this clearly in the WHIP’s thread in the WHIP channel on discord. In the notification, the champion must
-        - either state the result of the decision (accepted/ rejected) 
-        - or open the voting process on the WHIP.
-    2. WHIPs status is changed to "Voting Open" by a moderator
-    2. In either of the two cases, a consolidation phase starts:
-        - In case i) (stated result) a one week consolidation phase starts. The decision gets accepted if no core-team member raises a veto in the discord thread of the WHIP or if all core team members approve the decision within the consolidation phase. In case of a veto, the voting process starts with the two week consolidation phase starting from the moment where the veto has been raised.
-        - In case ii) each team member can cast their vote (accept/ reject/ abstain) via the discord thread of the WHIP. Non-voting is counted as abstaining. For the time being, core team members have one vote each and simple majority decides.  
-6. After a decision has been reached, the WHIP is moved to the “2_closed_proposal” folders, in the title of the WHIP in square brackets the decision is noted (e.g. WHIP-1: improvement proposals [ACCEPTED]), and a pdf has to be created of it. The name of the WHIP is as follows: WHIP-X-short-title-[accepted/ rejected]
-The WHIP is accepted after the link to the pdf has been shared via the discord thread of that WHIP. Afterwards the thread has to be closed. 
-7. A moderator changes the status of the WHIP to the corresponding status on github.
+    1. The champion informs the WiHi community that the WHIP is ready to be decided on by stating this clearly in the WHIP’s thread in the WHIP channel on discord and tagging the moderator who opened the WHIPs thread in this message. 
+    2. A moderator creates a voting proposal within the "WiHi Gov Committee" realm and informs the core team in a message in the WHIPs thread on Discord by tagging them and sharing the link to the vote proposal.
+    2. The status of WHIPs is changed to "Voting open" by a moderator and the link to the on-chain proposal is added to the WHIP, after which no more changes can be made to the document. 
+    2. The voting period is 7 days. 
+    2. Each core team member can cast their vote (accept/ reject/ abstain) on-chain on the WHIP via realms. Non-voting is counted as abstaining. For the time being, core team members have one vote each and simple majority decides.  
+6. After a decision has been reached, the WHIPs status on github is changed accordingly by a moderator.
+7. The process is closed by the moderator sharing the final status in the WHIPs discord thread.
 
 An update of this process has to follow the specified process.
 
