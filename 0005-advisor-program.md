@@ -22,12 +22,11 @@ For this, they receive WiHi rewards which are taken from a community fund (see [
 
 ## Application/ Acceptance of an advisor
 
-In order to become an advisor, the individual has to be nominated by a core team member (the promoter). In case the nomination has support of at least 2
-community fund multi-sig members, the promoter negotiates the terms and condition of the individuals advisor role, summarizes
-them in an one-Pager that illustrates the i) goals, ii) reward amount, iii) contact details of the advisor, and stores the
+In order to become an advisor, the individual has to be nominated by a supporter, contributor or core team member (the promoter). In case the nomination has support of at least 2
+community fund multi-sig members, the promoter negotiates the terms and condition of the individuals advisor role, summarizes them in an one-Pager that illustrates the i) goals, ii) reward amount, iii) contact details of the advisor, and stores the
 onePager in the [open proposals folder](https://drive.google.com/drive/folders/164We6FinxvUBoI_dF00Kz2rw7c5gsyqf?usp=sharing). The naming of the one pager is advisor-ID-NameOfAdvisor (where ID is a continuous index).
 If the necessary minimum of supporting community fund multi-sig members support the proposal (supporting members need to be
-named in the onePager), the advisor is accepted (which is signaled by storing the pdf of the onePager in the [accepted supporter folder](https://drive.google.com/drive/folders/1s_nJuHrl7OtXMpqe-kM3KV9S9jRflCJO?usp=sharing)) and the details are entered in the 
+named in the onePager, decision is taken by voting on-chain on a respective proposal within the community treasury multi-sig), the advisor is accepted (which is signaled by storing the pdf of the onePager in the [accepted supporter folder](https://drive.google.com/drive/folders/1s_nJuHrl7OtXMpqe-kM3KV9S9jRflCJO?usp=sharing)) and the details are entered in the 
 [list](https://docs.google.com/spreadsheets/d/1qgRbz1v1Pr6EUpWY8iiX_MVQecFiP1KW0tm6C4wx-l8/edit?usp=sharing). 
 
 ## Reward schemes
