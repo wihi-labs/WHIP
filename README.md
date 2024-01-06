@@ -23,7 +23,7 @@ The following listing of WHIPs illustrates the current form of the WiHi system a
 | 2 | [WiHi DAO](0002-wihi-dao/main.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img>   |
 | 3 | [Ambassador Program](0003-ambassador-program.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img>  |
 | 4 | [Idea Market](0004-idea-market.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img>   |
-| 5 | [Advisor Program](0005-advisor-program.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img>   |
+| 5 | [Expert Program](0005-expert-program.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img>   |
 | 6 | [Tokenomics](0006-tokenomics/main.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
 | 7 | [Voting](0007-voting/main.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
 | 8 | [Legal Structure](0008-legal-structure/main.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
