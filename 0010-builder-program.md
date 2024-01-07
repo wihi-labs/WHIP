@@ -55,7 +55,7 @@ Builders have the duty
 - to actively build out the WiHi platform
 - to make sure that they are not perceived as official representatives of WiHi but as active community members. In particular, it has to be clear that the views shared of them are their own and do not represent WiHi.
 
-# Motivation [(of the authors) for proposing the improvement]
+# Motivation
 Everyone supporting/ contributing to WiHi are part of the DAO. Everyone having a token can be part of the DAO. Those who actively and regularly support WiHi are at least supporters wihin our DAOonion (see [WHIP-2](https://github.com/wihi-labs/WHIP/blob/main/0002-wihi-dao/main.md)). Hence those building out WiHi who are neither contributors nor core team members require an own role within the supporter layer. This WHIP fills the gap. 
 
 # Rationale
