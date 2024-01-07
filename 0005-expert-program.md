@@ -23,10 +23,10 @@ For this, they receive WiHi rewards which are taken from a community fund (see [
 ## Application/ Acceptance of an expert
 
 In order to become an expert, the individual has to be nominated by a supporter, contributor or core team member (the promoter). In case the nomination has support of at least 2 community fund multi-sig members, the promoter negotiates the terms and condition of the individuals expert role, summarizes them in an one-Pager that illustrates the i) goals, ii) reward amount, iii) contact details of the expert, and stores the
-onePager in the [open proposals folder](https://drive.google.com/drive/folders/164We6FinxvUBoI_dF00Kz2rw7c5gsyqf?usp=sharing). The naming of the one pager is expert-ID-NameOfExpert (where ID is a continuous index).
+onePager in the [open proposals folder](https://drive.google.com/drive/folders/1cWxiwhtN1a6-teq-Nj_QDLiplEhzBTjJ?usp=sharing). The naming of the one pager is expert-ID-NameOfExpert (where ID is a continuous index).
 If the necessary minimum of supporting community fund multi-sig members support the proposal (supporting members need to be
-named in the onePager, decision is taken by voting on-chain on a respective proposal within the community treasury multi-sig once established), the expert is accepted (which is signaled by storing the pdf of the onePager in the [accepted supporter folder](https://drive.google.com/drive/folders/1s_nJuHrl7OtXMpqe-kM3KV9S9jRflCJO?usp=sharing)) and the details are entered in the 
-[list](https://docs.google.com/spreadsheets/d/1qgRbz1v1Pr6EUpWY8iiX_MVQecFiP1KW0tm6C4wx-l8/edit?usp=sharing). 
+named in the onePager, decision is taken by voting on-chain on a respective proposal within the community treasury multi-sig once established), the expert is accepted (which is signaled by storing the pdf of the onePager in the [accepted supporter folder](https://drive.google.com/drive/folders/1P6e98ZTY2ItKZIqVigK84mh-WkmbI_mJ?usp=sharing)) and the details are entered in the 
+[list](https://docs.google.com/spreadsheets/d/1EBO-G-uDC6arYudOhIIZk7rDy2zo5UJc/edit?usp=sharing&ouid=111110313573215603604&rtpof=true&sd=true). 
 
 ## Reward schemes
 
@@ -50,7 +50,8 @@ Experts have the right
 - to access the Logo and CIs folder of WiHi
 - to access the WiHi supporter folder
 - To have the supporter status on discord (and see the corresponding channels)
-- To view the [accepted supporters folder](https://drive.google.com/drive/folders/1s_nJuHrl7OtXMpqe-kM3KV9S9jRflCJO?usp=sharing)  
+- To view the [accepted supporters folder](https://drive.google.com/drive/folders/1P6e98ZTY2ItKZIqVigK84mh-WkmbI_mJ?usp=sharing)  
+- To view the WiHi supporter drive
 - To gain access to specific competence area channels that are located in the contributor category if decided by the corresponding competence area
 
 Experts have the duty

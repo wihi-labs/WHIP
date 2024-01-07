@@ -1,4 +1,4 @@
-# WHIP-X: Title 
+# WHIP-0010: Builder program
 
 ## Author(s)
 [Mark Ballandies](https://twitter.com/BallandiesMC)
@@ -18,13 +18,13 @@ Builders must regularly build out the WiHi platform.
 
 For this, they receive WiHi rewards which are taken from a community fund (see [WHIP-3](https://github.com/wihi-labs/WHIP/blob/main/0003-ambassador-program.md)) that is filled with tokens from the treasury. Fiat payouts are not possible and only used to cover expenses that have been agreed on a priori.
 
-## Application/ Acceptance of an expert
+## Application/ Acceptance of a builder
 
-In order to become a builder, the individual has to be nominated by a supporter, contributor or core team member (the promoter). In case the nomination has support of at least 2 community fund multi-sig members, the promoter negotiates the terms and condition of the individuals builder role, summarizes them in an one-Pager that illustrates the i) goals, ii) reward amount, iii) contact details of the expert, and stores the
-onePager in the [open proposals folder](https://drive.google.com/drive/folders/164We6FinxvUBoI_dF00Kz2rw7c5gsyqf?usp=sharing). The naming of the one pager is builder-ID-NameOfBuilder (where ID is a continuous index).
+In order to become a builder, the individual has to be nominated by a supporter, contributor or core team member (the promoter). In case the nomination has support of at least 2 community fund multi-sig members, the promoter negotiates the terms and condition of the individuals builder role, summarizes them in an one-Pager that illustrates the i) goals, ii) reward amount, iii) contact details of the builder, and stores the
+onePager in the [open proposals folder](https://drive.google.com/drive/folders/1cWxiwhtN1a6-teq-Nj_QDLiplEhzBTjJ?usp=sharing). The naming of the one pager is builder-ID-NameOfBuilder (where ID is a continuous index).
 If the necessary minimum of supporting community fund multi-sig members support the proposal (supporting members need to be
-named in the onePager, decision is taken by voting on-chain on a respective proposal within the community treasury multi-sig once established), the builder is accepted (which is signaled by storing the pdf of the onePager in the [accepted supporter folder](https://drive.google.com/drive/folders/1s_nJuHrl7OtXMpqe-kM3KV9S9jRflCJO?usp=sharing)) and the details are entered in the 
-[list](https://docs.google.com/spreadsheets/d/1qgRbz1v1Pr6EUpWY8iiX_MVQecFiP1KW0tm6C4wx-l8/edit?usp=sharing). 
+named in the onePager, decision is taken by voting on-chain on a respective proposal within the community treasury multi-sig once established), the builder is accepted (which is signaled by storing the pdf of the onePager in the [accepted supporter folder](https://drive.google.com/drive/folders/1P6e98ZTY2ItKZIqVigK84mh-WkmbI_mJ?usp=sharing)) and the details are entered in the 
+[list](https://docs.google.com/spreadsheets/d/1EBO-G-uDC6arYudOhIIZk7rDy2zo5UJc/edit?usp=sharing&ouid=111110313573215603604&rtpof=true&sd=true). 
 
 ## Reward schemes
 
@@ -36,8 +36,8 @@ Different reward schemes are possible and can be combined on a case-by-case basi
     - Monthly/ yearly/ one-time token distribution that may be vested [optional]
     - Monthly/ yearly/ one time token compensation that are locked and vested similar to team compensation [required]
 2. *Prizes*
-    - Received for specific contributions (defined, discussed, approved during community build-up calls) and agreed to with an expert in writing
-    - Related to the expert knowledge of an expert
+    - Received for specific contributions (defined, discussed, approved during community build-up calls) and agreed to with a builder in writing
+    - Related to the builders contribution
     - Award amounts are directly related to benefit accrued to WiHi; rewards amounts can be paid out in proportion to the benefit or a one-time payout for achieving a certain goal
 
 ## Rights and duties of a Builder
@@ -47,7 +47,8 @@ Builders have the right
 - to access the Logo and CIs folder of WiHi
 - to access the WiHi supporter folder
 - To have the supporter status on discord (and see the corresponding channels)
-- To view the [accepted supporters folder](https://drive.google.com/drive/folders/1s_nJuHrl7OtXMpqe-kM3KV9S9jRflCJO?usp=sharing)  
+- To view the [accepted supporters folder](https://drive.google.com/drive/folders/1P6e98ZTY2ItKZIqVigK84mh-WkmbI_mJ?usp=sharing)  
+- To view the WiHi supporter drive
 - To gain access to specific competence area channels that are located in the contributor category if decided by the corresponding competence area
 
 Builders have the duty
