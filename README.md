@@ -27,10 +27,12 @@ The following listing of WHIPs illustrates the current form of the WiHi system a
 | 6 | [Tokenomics](0006-tokenomics/main.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
 | 7 | [Voting](0007-voting/main.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
 | 8 | [Legal Structure](0008-legal-structure/main.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
+| 9 | [Air gradient](0009-air-gradient-outreach.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
+| 10 | [Builder Program](0010-builder-program.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
 
 ## Status Key
 
-| Status        | Label                                                                        | Summary                                                                                               |
+| Status        | Label                                                                          | Summary                                                                                               |
 | :------------ | :--------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- |
 | Draft         | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img>           | WHIP is in process of being written; author is not yet soliciting feedback from the community at large |
 | In Discussion | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> | WHIP is under active consideration by the community                                                    |

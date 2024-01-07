@@ -13,7 +13,7 @@ It is intended to be a pool of active individuals that regularly *build out the 
 
 This WHIP-10 specifies the structure, goals and mechanisms of the Builder program.
 
-# Specification [of the concrete improvement]
+# Specification 
 Builders must regularly build out the WiHi platform. 
 
 For this, they receive WiHi rewards which are taken from a community fund (see [WHIP-3](https://github.com/wihi-labs/WHIP/blob/main/0003-ambassador-program.md)) that is filled with tokens from the treasury. Fiat payouts are not possible and only used to cover expenses that have been agreed on a priori.
