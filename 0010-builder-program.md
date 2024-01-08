@@ -44,7 +44,7 @@ Different reward schemes are possible and can be combined on a case-by-case basi
 
 Builders have the right 
 - to call themselves a “WiHi Builder”
-- to access the Logo and CIs folder of WiHi
+- to access the Logo and CIs (corporate identity) folder of WiHi
 - to access the WiHi supporter folder
 - To have the supporter status on discord (and see the corresponding channels)
 - To view the [accepted supporters folder](https://drive.google.com/drive/folders/1P6e98ZTY2ItKZIqVigK84mh-WkmbI_mJ?usp=sharing)  
