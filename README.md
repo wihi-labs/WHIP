@@ -14,7 +14,7 @@ Hence, the WHIP process itself is subject to changes that are defined in future 
 
 ## Index of proposals
 
-The following listing of WHIPs illustrates the current form of the WiHi system and the history of how this was achieved.
+The following listing of WHIPs constitute the current WiHi system and the history of how this was achieved.
 
 <!-- prettier-ignore -->
 | ID | Title | Status |
