@@ -9,7 +9,7 @@ Organization
 # Abstract 
 The idea market is a tool of the WiHi DAO to facilitate the self-organization of its community. The community can crowdsource ideas/tasks leading to WiHi's success, organize, and fund their execution in a decentralized/ bottom-up way. It is a public board illustrating tasks that need to be performed.
 
-The idea market extends the concept of crowed-sourcing by splitting the mandate of execution from proposing. 
+The idea market extends the concept of crowed-financing by splitting the mandate of execution from proposing. 
 
 # Specification 
 
