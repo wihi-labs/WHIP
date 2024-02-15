@@ -29,7 +29,7 @@ WHIP-12 illustrates the initial voting mechanism of the WiHi DAO implementing th
     - In order to implement the token, a realms DAO is created
     - Vote Power is a community token which mint authority lies with the DAO
     - threshold for decision taking is 51%
-    - minimum number of community tokens needed to manage the DAO is set to 3
+    - minimum number of community tokens needed to manage the DAO is set to 1 (roughly 5% of the total vote power)
     - Token name is Vote Power
     - Following best practice, a council with the three core team members (Michael, Uros, Mark) is instantiated. As soon as voting functions smoothly, the council will be removed (latest after the 10th vote in a row without an issue).
 
