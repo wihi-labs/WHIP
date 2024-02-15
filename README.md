@@ -30,6 +30,8 @@ The following listing of WHIPs constitute the current WiHi system and the histor
 | 9 | [Air Quality Data](0009-air-quality-data.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
 | 10 | [Builder Program](0010-builder-program.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
 | 11 | [WiHi Points](0011-WIPO.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
+| 12 | [Initial Governance](0012-initial-governance.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
+| 13 | [Initial Voting](0013-initial-voting.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
 
 ## Status Key
 

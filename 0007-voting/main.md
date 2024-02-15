@@ -30,7 +30,7 @@ This specification illustrates the high-level mechanism of how such votings shou
 
 # Rationale 
 
-The primary objective of WiHi's governance can be summarized as follows:
+The primary objective of WiHi's voting can be summarized as follows:
 
 1. Inclusion of all stakeholders, including users, in decision-making processes.
 2. Facilitation of self-improvement without centralized control.
