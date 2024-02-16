@@ -11,6 +11,11 @@ Besides WHIPs, we also have a tool for self-organization that does not rely on o
 Our WHIPs utilize [digital democracy](https://www.sciencedirect.com/science/article/pii/S1877750323001217) mechanisms, such as various deliberation and voting mechanisms, and are continuously adapted to the latest technology.
 Hence, the WHIP process itself is subject to changes that are defined in future WHIPs. Please feel invited to shape the way how WiHi makes decisions!
 
+## Contributing and Participating
+
+WHIPs can be discussed in our [discord](https://discord.gg/wihi) and on our [Github discussioins](https://discord.gg/wihi) for this repo. 
+
+Well thought-out and mature contributions can be made via a pull a request.
 
 ## Index of proposals
 
