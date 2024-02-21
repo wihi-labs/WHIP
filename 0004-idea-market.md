@@ -30,7 +30,7 @@ The tool should have the following capabilities:
 
 2. Anyone can back an idea with WiHi or other tokens (tokens get locked in the smart contract)
 3. List is sorted based on most stake 
-4. Anyone can work on a task (potentially filters can be applied, e.g. a contributor, a supporter, a friend needs to do it (see WHIP-2), etc.) 
+4. Anyone can work on a task (potentially filters can be applied, e.g. a contributor, a supporter, a friend needs to do it (see [WHIP-2](https://github.com/wihi-labs/WHIP/blob/main/0002-wihi-dao/main.md)), etc.) 
     - For this a volunteer/ a group of volunteers has to indicate willingness to work on the task by entering their public address
     - The initiator and/ or the backers (specified by initiator) accept the volunteer(s).
     - Potentially, several different groups can work on the same task (if not, task gets locked preventing others to take it). In this case, rewards might be split among all groups, resp. 
@@ -52,7 +52,7 @@ In order to start the self-organization process of the WiHi DAO, for the time be
 # Motivation 
 DAOs started out as creative centers with a lot of activity. More recently, we have observed that these organizations are becoming increasingly bureaucratic. Improvement proposals in particular are a slow and energy-consuming mechanism to achieve decisions and activities within a DAO. 
 
-In general, Improvement Proposals are a mechanism for collective intelligence answering the ("what should be done")[https://medium.com/coinmonks/complex-systems-part-2-managing-complexity-with-bottom-up-solutions-9d6fadd88cc4] within a DAO. The idea market is a mechanism for self-organization answering the ("how things should be done")[https://medium.com/coinmonks/complex-systems-part-2-managing-complexity-with-bottom-up-solutions-9d6fadd88cc4] within a DAO and thus will complement the improvement proposal mechanism within WiHi (WHIP-1). It is a lower-level tool that enables anyone to express ideas, to work on/ execute ideas, to fund/ support ideas, and to review executions of ideas. In particular, no DAO-wide consensus need to be reached on an idea (in order for it to be added to the idea market or to be funded or executed).
+In general, Improvement Proposals are a mechanism for collective intelligence answering the ("what should be done")[https://medium.com/coinmonks/complex-systems-part-2-managing-complexity-with-bottom-up-solutions-9d6fadd88cc4] within a DAO. The idea market is a mechanism for self-organization answering the ("how things should be done")[https://medium.com/coinmonks/complex-systems-part-2-managing-complexity-with-bottom-up-solutions-9d6fadd88cc4] within a DAO and thus will complement the improvement proposal mechanism within WiHi ([WHIP-1](https://github.com/wihi-labs/WHIP/blob/main/0001-wihi-improvement-proposals.md)). It is a lower-level tool that enables anyone to express ideas, to work on/ execute ideas, to fund/ support ideas, and to review executions of ideas. In particular, no DAO-wide consensus need to be reached on an idea (in order for it to be added to the idea market or to be funded or executed).
 
 Thus, it is a tool that facilitates bottom-up initiatives to be identified, funded and executed.
 
