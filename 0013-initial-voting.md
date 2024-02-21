@@ -9,7 +9,7 @@ Technical
 ## Acceptance date [only after acceptance]
 
 # Abstract 
-WHIP-12 illustrates the initial voting mechanism of the WiHi DAO implementing the initial governance illustrated in WHIP-12.
+WHIP-13 illustrates the initial voting mechanism of the WiHi DAO implementing the initial governance illustrated in [WHIP-12](https://github.com/wihi-labs/WHIP/blob/main/0012-initial-governance.md).
 
 # Specification 
 - vWiPo 
