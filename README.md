@@ -31,13 +31,13 @@ The following listing of WHIPs constitute the current WiHi system and the histor
 | 5 | [Expert Program](0005-expert-program.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img>   |
 | 6 | [Tokenomics](0006-tokenomics/main.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
 | 7 | [Voting](0007-voting/main.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
-| 8 | [Legal Structure](0008-legal-structure/main.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
-| 9 | [Air Quality Data](0009-air-quality-data.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
-| 10 | [Builder Program](0010-builder-program.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
-| 11 | [WiHi Points](0011-WIPO.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
-| 12 | [Initial Governance](0012-initial-governance.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
-| 13 | [Initial Voting](0013-initial-voting.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
-| 14 | [Dual Token](0014-dual-token.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
+| 8 | [Legal Structure](0008-legal-structure/main.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
+| 9 | [Air Quality Data](0009-air-quality-data.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
+| 10 | [Builder Program](0010-builder-program.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
+| 11 | [WiHi Points](0011-WIPO.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
+| 12 | [Initial Governance](0012-initial-governance.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
+| 13 | [Initial Voting](0013-initial-voting.md) |<img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
+| 14 | [Dual Token](0014-dual-token.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
 
 
 ## Status Key
