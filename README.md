@@ -37,6 +37,8 @@ The following listing of WHIPs constitute the current WiHi system and the histor
 | 11 | [WiHi Points](0011-WIPO.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
 | 12 | [Initial Governance](0012-initial-governance.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
 | 13 | [Initial Voting](0013-initial-voting.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
+| 13 | [Initial Voting](0014-dual-token.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
+
 
 ## Status Key
 
