@@ -14,18 +14,18 @@ WiHi is seeking to build out a global and dense network of weather and climate m
 # Specification
 WiHi shall issue a token called \$WNT which will be used to vote on matters of governance in the WiHi DAO and to reward the core and contributor layers. WiHi shall issue a utility token called \$WIHI which will be used to reward the WiHi supporter layer.
 
-WiHi shall create two treasuries: a core treasury and a supporter treasury. The core treasury shall initially contain the entire, fully diluted supply of \$WNT tokens in addition to any tokens owned by WiHi at the time of instantiation. The supporter treasury shall initially be empty. The core treasury may hold any type of token. The supporter treasury may hold only \$WNT and may receive this \$WNT only from the core treasury.
+WiHi shall create two treasuries: a core treasury and a supporter treasury. The core treasury shall initially contain the entire, fully-diluted supply of \$WNT tokens in addition to any tokens owned by WiHi at the time of instantiation. The supporter treasury shall initially be empty. The core treasury may hold any type of token. The supporter treasury may hold only \$WNT and may receive this \$WNT only from the core treasury.
 
 \$WNT:
 - Fixed supply
 - Represents voting rights in the WiHi DAO
-- Represents ownership of core treasury
-- May only be swapped with tokens in the core treasury with agreement of at least 80\% of a DAO vote; upon swap the \$WNT is burned
+- Represents ownership of non-\$WNT tokens in the core treasury
+- May only be swapped with non-\$WNT tokens in the core treasury after a proposal from the governance committee or a commission to which this responsibility has been delegated, and with a further confirmation given by DAO vote; swapped \$WNT is burned
 
 \$WIHI:
 - Flexible supply
 - Represents ownership of supporter treasury
-- May be swapped with tokens in treasury at any time; upon swap the \$WIHI is burned
+- May be swapped with tokens in the supporter treasury at any time; swapped \$WIHI is burned
 - Minted as needed to reward supporters
 
 Core treasury:
@@ -37,7 +37,7 @@ Supporter treasury:
 In certain cases, WiHi shall provide data providers with a guaranteed price for their \$WIHI tokens, wherein this guarantee will be subject to expiry. For this purpose, a custody mechanimsm will be created that will custody this guarantee. When guarantees are swapped for tokens at the agreed-upon price, the swapped guarantees are burned. When gurantees are transferred off the custody mechanism, without being swapped, the agreement is null and void for the tokens now in circulation. The agreement will continue to be honored for the guarantees that remain in custody and have not yet expired. Only the WiHi protocol may transfer tokens into the custody mechanism, meaning that only the WiHi protocol may make such guarantees and guarantees may not be reinstated after being revoked, either due to expiry or due to transfer.
 
 # Motivation
-WiHi is seeking to build out a global and dense network of weather and climate monitoring. Weather monitoring is a common good managed and subsidized through a loose cooperation of national, super-national, and private entities. Although the benefits of updating the current cooperative framework with web3 technology are apparent, achieving them requires stakeholder management. Aligning token incentives with project goals is therefore necessary.
+WiHi is seeking to build out a global and dense network of weather and climate monitoring. In its current state, weather monitoring is a common good managed and subsidized through a loose cooperation of national, super-national, and private entities. Although the benefits of updating the current cooperative framework with web3 technology are apparent, achieving them requires stakeholder management. Aligning token incentives with project goals is therefore necessary.
 
 The first necessary alignment is that of ensuring that a token captures the value of the WiHi economy. To do this, revenues of the economy must accrue value to token holders. Various designs and industry best-practices exist that ensure such alignment, so this is easy enough to achieve, but what is often missing is a clear definition of who owns the economy and in what proportion. This is the second necessary alignment between token incentives and project goals.
 
@@ -48,7 +48,7 @@ Moreover, WiHi seeks to entice membership of those who are intrinsically motivat
 # Rationale
 The token representing the value of the WiHi economy should be seperated from the token representing the value of the supporter economy. The assumption underlying this proposal is that the main differentiator between the supporter and contributor layers are that it is difficult to separate supporters who are intrinsically motivated to help WiHi succeed and those that are only motivated by financial gain, even at the expense of WiHi's success. Contributors, like the core team, are assumed to help with the day-to-day operations of WiHi and their main motivations and loyalty to project goals tends to be much easier to identify.
 
-It thus makes sense to directly reward contributors and the core team with a stake in the main economy and not directly reward supporters with the same stake. To allow for this degree of seperation, at least two types of tokens are required for rewarding each group.
+It thus makes sense to directly reward contributors and the core team with a stake in the main economy and not directly reward supporters with the same stake. To allow for this degree of seperation, at least two types of tokens are required for rewarding each group. Some literature on the topic of increasing the number of tokens to increase the dimensionality of the mechanism design space includes \[[1](https://doi.org/10.1140/epjst/e2016-60156-7)\], \[[2](https://doi.org/10.1109/ACCESS.2022.3189774)\], \[[3](https://doi.org/10.1007/978-3-030-71400-0)\].
 
 The main economy token may be called \$WNT, which would stand for "WiHi Network Token," the expectation being that the DePIN community would understand this token to behave similarly to the Helium Network Token. The similarity is in that its fully diluted value represents the full value of the WiHi economy. Tying the value of \$WNT to the value of the economy can be done in various ways. Generally, there are three models:
 1) Use incoming revenue to buy \$WNT on the open market (buyback model)
@@ -57,11 +57,19 @@ The main economy token may be called \$WNT, which would stand for "WiHi Network 
 
 Mathematically, the three models are equivalent from a cash flow perspective because value is generally equal to the difference in discounted cash flows into and out of the economy and this is invariant across any value storage scheme.
 
-Although burn-and-mint is popular in the DePIN space, the most flexible mechanism that serves the long-term interests of WiHi is the middle option. In both remaining models, value is dissipated to token holders without giving the chance to the DAO to decide how it may deploy capital. Since weather and climate are long-term endeavors, it stands to reason that it would be of benefit to the community that WiHi hold on to as much revenue as the community might allow. The DAO may allow for a small amount of burn in order to keep token holders happy, but this should not be overly large; a full burn would be akin to a stock dividend disbursing all revenue for that month.
+Although burn-and-mint is popular in the DePIN space, the most flexible mechanism that serves the long-term interests of WiHi is the middle option. In both remaining models, value is dissipated to token holders without giving the chance to the DAO to decide how it may deploy capital. Since weather and climate are long-term endeavors, it stands to reason that it would be of benefit to the community that WiHi save as much revenue as the community might allow. The DAO may allow for a small amount of burn in order to keep token holders happy, but this should not be overly large; a full burn would be akin to a stock dividend disbursing all revenue for that month.
+
+In addition to ownership of treasury funds, ownership of \$WNT may represents voting rights. However, the initiation of releasing funds from the treasury should not be directly linked to the token. Instead, we recommend that the release be initiated by the governance committe or an appointed commission. Furthermore, to prevent self-dealing, the release should be subject to approval by DAO vote. This is similar to how budgets are approved in democracies.
+
+To ensure that \$WNT represents ownership of non-\$WNT treasury funds, when \$WNT is swapped for these funds, the \$WNT should be burned; otherwise, this \$WNT would, upon swap, represent ownership of the non-swapped remainder of treasury funds.
 
 With a treasury, the DAO is able to direct the flow of funds to different stakeholders. An important segment of stakeholders is comprised of the supporter base. Here, the DAO should direct funds to a treasury that is meant to reward supporters. However, in the initial stages, WiHi is not able to adequately reward supporters due to lack of revenue, nor is it clear how much they should be rewarded, so the proposal envisions that the market should decide the amount.
 
-Therefore, we may introduce a supporter economy token and call it \$WIHI. The name is meant to associate the function of the token with cooperative  and open participation in WiHi. This token, unlike \$WNT, while representing a share of a supporters' treasury, is not associated with governance of WiHi. Its main purpose is to adequately reward the supporter base and the goal would be to reach an equilibrium wherein the \$WNT coming into the supporter treasury is fully balanced by the outgoing \$WIHI at the current market rate. To determine the amount of \$WNT granted to the supporter treasury, we envision a process of negotiation within the DAO, wherein an agreement is reached between supporters and the rest of the DAO. How this should be implemented is outside the scope of this proposal.
+Therefore, we may introduce a supporter economy token and call it \$WIHI. The name is meant to associate the function of the token with cooperative  and open participation in WiHi. This token, unlike \$WNT, while representing a share of a supporters' treasury, is not associated with governance of WiHi. Its main purpose is to adequately reward the supporter base and the goal would be to reach an equilibrium wherein the \$WNT coming into the supporter treasury is fully balanced by the outgoing \$WIHI at the current market rate. To determine the amount of \$WNT granted to the supporter treasury, we envision a process of negotiation within the DAO, wherein an agreement is reached between supporters and the rest of the DAO. How agreement should be reached is outside the scope of this proposal.
+
+The rationale behind both funding the supporter treasury with \$WNT only, and only allowing the DAO to fund this treasury is that the supporters must remain aligned with the DAO. Allowing funding with other tokens, or even other entities with the same token, will have the unproductive effect of aligning supporters with the source of those tokens.
+
+Unlike the core treasury, the supporter treasury is open for withdrawal at any time. This allows for greater trust between supporters and the rest of the DAO, i.e., there is no way for access to these tokens to be taken away from supporters. Note that it is also not possible for the DAO to remove tokens from the supporter treasury; only supporters may take tokens from the supporter treasury.
 
 Nevertheless, a complication arises in that some miners may not be willing to participate in a scheme without guaranteed rewards. This will become a concern as soon as WiHi is seen as an attractive customer for data providers that are able to charge a significant price for their data. To remedy this, the proposal envisions that these providers be rewarded with options that provide a backstop to the token price via a repurchase guarantee. Such options can be exercised either by being swapped at the guaranteed repurchase price or by being converted to \$WIHI, after which the repurchase guarantee would immediately expire. Moreover, these options should be time-limited in order to allow WiHi to monitor its outstanding liabilities more effectively.
 
