@@ -41,7 +41,7 @@ A champion can be any community member.
 The process for getting an WHIP accepted is as follows
 
 1. The champion creates a WHIP by creating a markdown document that coheres to the above mentioned structure and by creating a pull request for this document to the WHIP repository on github
-2. A moderator accepts the pull request and creates a corresponding "issue" if the formal requirements are met and there is no inappropriate behavior (There is zero-tolerance for advertisements, harassment, trolling, racism, sexism, homophobia, NSFW content and hate speech).
+2. A moderator accepts the pull request and creates a corresponding "discussion" if the formal requirements are met and there is no inappropriate behavior (There is zero-tolerance for advertisements, harassment, trolling, racism, sexism, homophobia, NSFW content and hate speech).
 2. The moderator shares with others the document via the “WHIP” channel in discord as a thread. 
 3. Official comments from community members on the WHIP, which must be addressed by the author(s) *in writing* within the WHIP document, will be done via the corresponding "discussion" on Github - clarifications/sharing of ideas can be done via Discord or other venues.
 4. Champions are responsible for getting support for the WHIP (e.g. through calls in the community, discussions on Discord in the whip's thread, etc.).
