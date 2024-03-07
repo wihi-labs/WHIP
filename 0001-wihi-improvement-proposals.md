@@ -47,7 +47,7 @@ The process for getting an WHIP accepted is as follows
 4. Champions are responsible for getting support for the WHIP (e.g. through calls in the community, discussions on Discord in the whip's thread, etc.).
 5. A WHIP is decided on as follows
     1. The champion informs the WiHi community that the WHIP is ready to be decided on by stating this clearly in the WHIP’s thread in the WHIP channel on discord and tagging the moderator who opened the WHIPs thread in this message. 
-    2. A moderator creates a voting proposal within the "WiHi Gov Committee" realm and informs the core team in a message in the WHIPs thread on Discord by tagging them and sharing the link to the vote proposal.
+    2. A moderator creates a voting proposal within the "WiHi DAO" realm and informs the core team in a message in the WHIPs thread on Discord by tagging them and sharing the link to the vote proposal.
     2. The status of WHIPs is changed to "Voting open" by a moderator and the link to the on-chain proposal is added to the WHIP, after which no more changes can be made to the document. 
     2. The voting period is 7 days. 
     2. Each core team member can cast their vote (accept/ reject/ abstain) on-chain on the WHIP via realms. Non-voting is counted as abstaining. For the time being, core team members have one vote each and simple majority decides.  
