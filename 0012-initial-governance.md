@@ -16,14 +16,14 @@ This WHIP illustrates the initial mechanism with which WiHi will reach decisions
 # Specification 
 - The core team of the DAO (inner layer of DAO onion) consists of those being voted into the governance committee and the commission of the association (legal entity). 
 - Members of the association can vote on WHIPs and vote items within the association. 
-- Until the WiHi token is deployed, members of the association can become those that are part of the cap table that registers the percentage of tokens from the founders pool a founder receives
-- Receving shares within the cap table requires membership of the contributor or core team layer
+- Until the WiHi governance token is deployed, members of the association can become those that are part of the cap table
+- Receving shares within the cap table requires membership of the contributor, core team layer or being an investor.
     - Share calculation:
         - A 100% time engagement in a month with WiHi equals a weight of 1 for that month
         - The share of the founders pool is calculated as the division between the sum of ones own shares divided by the sum of all shares
-    - core team members and contributors can contribute fiat into the organization. 10000 (ten thousand) US Dollar adds the weight of 1 to ones own weight calculation. 
+    - core team members, contributors or investors can contribute fiat into the organization. 10000 (ten thousand) US Dollar adds the weight of 1 to ones own weight calculation. 
 - Following the principle of square root voting that mitigates the risk of power concentrations as outlined in [WHIP-0007](https://github.com/wihi-labs/WHIP/blob/main/0007-voting/main.md), the vote power of members within a month equals the square root of their weight on the 1st of that month. 
-- Voting is conducted on-chain
+- Voting when possible is conducted on-chain
 - Members who participate in voting have to be listed on the WiHi website with their name and blockchain address they use for voting. 
  
 # Motivation 
