@@ -13,7 +13,7 @@ WHIP-12 illustrates the initial voting mechanism of the WiHi DAO approximating t
 
 # Specification 
 - Implementation
-    - In order to implement the initial governance illustrated in WHIP-12, a [Realms](https://realms.today/) multi-sig DAO is created on Solana mainnet. Members of this multi-sig are refered to as council members in the realms terminology.
+    - In order to implement the initial governance illustrated in WHIP-12, a [Realms](https://realms.today/) multi-sig DAO is created on Solana mainnet with the name "WiHi DAO". Members of this multi-sig are refered to as council members in the realms terminology.
     - Council membership is open to all WiHi association members
     - Council members can have a varying 'vote weight'
     - Vote weight of a council member is the integer rounded amount of vote power steming from the cap table or 1. At initialisation, the vote weights are distributed as follows Uros: 5, Michael: 5, Mark: 3, Vlad: 2, Saleh: 2, Kevin: 1, Yangchen: 1.
