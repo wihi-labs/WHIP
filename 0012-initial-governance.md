@@ -11,10 +11,10 @@ Governance
 
 # Abstract 
 WiHi's envisioned voting mechanism is outlined in [WHIP-0007](https://github.com/wihi-labs/WHIP/blob/main/0007-voting/main.md), WiHi's decentralized organization is described in [WHIP-0002](https://github.com/wihi-labs/WHIP/blob/main/0002-wihi-dao/main.md), and  WiHi's instantiated legal structure for this organization is illustrated in [WHIP-0008](https://github.com/wihi-labs/WHIP/blob/main/0008-legal-structure/main.md). 
-This WHIP illustrates the initial mechanism with which WiHi will reach decisions on WHIPs and voting items within the legal entity (e.g. such as electing the governance committee).
+This WHIP illustrates the initial mechanism with which the WiHi DAO will reach decisions on WHIPs and voting items within the legal entity (e.g. such as electing the governance committee).
 
 # Specification 
-- The core team of the DAO (inner layer of DAO onion) consists of those being voted into the governance committee and the commission of the association (legal entity). 
+- The core team and contributors of the DAO (inner layer of DAO onion) consists of those being voted into the governance committee and the commission of the association (legal entity). 
 - Members of the association can vote on WHIPs and vote items within the association. 
 - Until the WiHi governance token is deployed, members of the association can become those that are part of the cap table
 - Receving shares within the cap table requires membership of the contributor, core team layer or being an investor.
