@@ -13,7 +13,7 @@ WHIP-12 illustrates the initial voting mechanism of the WiHi DAO approximating t
 
 # Specification 
 - Implementation
-    - In order to implement the initial governance illustrated in WHIP-12, a [Realms](https://realms.today/) multi-sig DAO is created. Members of this multi-sig are refered to as council members in the realms terminology.
+    - In order to implement the initial governance illustrated in WHIP-12, a [Realms](https://realms.today/) multi-sig DAO is created on Solana mainnet. Members of this multi-sig are refered to as council members in the realms terminology.
     - Council membership is open to all WiHi association members
     - Council members can have a varying 'vote weight'
     - Vote weight of a council member is the integer rounded amount of vote power steming from the cap table or 1. At initialisation, the vote weights are distributed as follows Uros: 5, Michael: 5, Mark: 3, Vlad: 2, Saleh: 2, Kevin: 1, Yangchen: 1.
@@ -37,3 +37,5 @@ The illustrated implementation follows the principles laid out in WHIP-12 and th
 - All council members being able to initiate proposals is aligned with the requirement from the WiHi association articles that the governance committee and/ or 5% of the voting power can initiate a mail-in-ballot or general assembly.
 - Ideally, a vote weight would be used that equals the square root of weights in the cap table (which could be treated as a fictional token). Nevertheless, this would require a custom implementation as realms is neither facilitating non-transferable tokens that have fractions, nor supports square-root voting. Out of bandwidth considerations, this is left for future work.
 - Vote weights cannot be delegated, because realms is using a non-transferable token for its vote weight/ council token implementation that cannot be delegated.
+- Solana mainnet is utilized to guarantee the permanence/ immutability of decision taken within the WiHi DAO. In particular, this initial voting is not a test/ experiment.
+- This voting mechanism is aligned with the dual-token model illustrated in WHIP-14. In particular, the illustrated initial voting/ vote weight/ council token will eventually be replaced with the WNT token. 
