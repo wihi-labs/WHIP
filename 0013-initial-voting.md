@@ -16,9 +16,9 @@ WHIP-12 illustrates the initial voting mechanism of the WiHi DAO approximating t
     - In order to implement the initial governance illustrated in WHIP-12, a [Realms](https://realms.today/) multi-sig DAO is created. Members of this multi-sig are refered to as council members in the realms terminology.
     - Council membership is open to all WiHi association members
     - Council members can have a varying 'vote weight'
-    - Vote weight of a council member is the rounded amount of vote power steming from the cap table or 1. At initialisation, the vote weights are distributed as follows Uros: 5, Michael: 5, Mark: 3, Vlad: 2, Saleh: 2, Kevin: 1, Yangchen: 1.
+    - Vote weight of a council member is the integer rounded amount of vote power steming from the cap table or 1. At initialisation, the vote weights are distributed as follows Uros: 5, Michael: 5, Mark: 3, Vlad: 2, Saleh: 2, Kevin: 1, Yangchen: 1.
     - Threshold for decision taking is 51% of vote weight. Please note, in case some association members are not joining governance their vote weight is not considered in the threshold calculation.
-        - Hence, only votes within the WiHi association that are subject to this majority rule can be faciliated by this on-chain voting mechanism. All other DAO-wide decision for the time being shall require this simple majority of 51%.      
+        - Hence, only votes within the WiHi association that are subject to this majority rule can be faciliated by this on-chain voting mechanism. All DAO-wide decision for the time being shall require this simple majority of 51%.      
     - Votes are conducted via the Realms proposal mechanism
     - Vote weights cannot be delegated
     - Voting proposals can be initiated by all council members. 
@@ -31,9 +31,9 @@ WHIP-12 illustrates the initial voting mechanism of the WiHi DAO approximating t
 - The WiHi association shall adopt this initial governance for their decision making. In particular, for all subject matters that require simple majority (51%), voting should be conducted via this initial governance mechanism. This will require a vote within WiHis general assembly.  
 
 # Motivation 
-
-
+The illustrated implementation follows the principles laid out in WHIP-12 and the WiHi association articles as best as possible, while keeping its implementation time efficient. In particular, a need within the DAO has arisen to finalize the open WHIPs asap. This WHIP is the enabler of this finalization.
 
 # Rationale
 - All council members being able to initiate proposals is aligned with the requirement from the WiHi association articles that the governance committee and/ or 5% of the voting power can initiate a mail-in-ballot or general assembly.
 - Ideally, a vote weight would be used that equals the square root of weights in the cap table (which could be treated as a fictional token). Nevertheless, this would require a custom implementation as realms is neither facilitating non-transferable tokens that have fractions, nor supports square-root voting. Out of bandwidth considerations, this is left for future work.
+- Vote weights cannot be delegated, because realms is using a non-transferable token for its vote weight/ council token implementation that cannot be delegated.
