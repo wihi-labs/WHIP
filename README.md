@@ -29,7 +29,7 @@ The following listing of WHIPs constitute the current WiHi system and the histor
 | 3 | [Ambassador Program](0003-ambassador-program.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img>  |
 | 4 | [Idea Market](0004-idea-market.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img>   |
 | 5 | [Expert Program](0005-expert-program.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img>   |
-| 6 | [Tokenomics](0006-tokenomics/main.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
+| 6 | [Tokenomics](0006-tokenomics/main.md) | <img src="https://img.shields.io/badge/Status-Closed-lightgrey"></img>   |
 | 7 | [Voting](0007-voting/main.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
 | 8 | [Legal Structure](0008-legal-structure/main.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
 | 9 | [Air Quality Data](0009-air-quality-data.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
