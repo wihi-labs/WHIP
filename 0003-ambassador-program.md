@@ -3,7 +3,7 @@
 ## Author(s):
 
 [Mark Ballandies](https://twitter.com/BallandiesMC)
-[Uroš Kalabić]()
+[Uroš Kalabić](https://twitter.com/urosnoetic)
 
 ## Type
 
