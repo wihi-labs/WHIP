@@ -41,13 +41,13 @@ A champion can be any community member.
 The process for getting an WHIP accepted is as follows
 
 1. The champion creates a WHIP by creating a markdown document that coheres to the above mentioned structure and by creating a pull request for this document to the WHIP repository on github
-2. A moderator accepts the pull request and creates a corresponding "issue" if the formal requirements are met and there is no inappropriate behavior (There is zero-tolerance for advertisements, harassment, trolling, racism, sexism, homophobia, NSFW content and hate speech).
+2. A moderator accepts the pull request and creates a corresponding "discussion" if the formal requirements are met and there is no inappropriate behavior (There is zero-tolerance for advertisements, harassment, trolling, racism, sexism, homophobia, NSFW content and hate speech).
 2. The moderator shares with others the document via the “WHIP” channel in discord as a thread. 
-3. Official comments from community members on the WHIP, which must be addressed by the author(s) *in writing* within the WHIP document, will be done via the corresponding "issue" on Github - clarifications/sharing of ideas can be done via Discord or other venues.
+3. Official comments from community members on the WHIP, which must be addressed by the author(s) *in writing* within the WHIP document, will be done via the corresponding "discussion" on Github - clarifications/sharing of ideas can be done via Discord or other venues.
 4. Champions are responsible for getting support for the WHIP (e.g. through calls in the community, discussions on Discord in the whip's thread, etc.).
 5. A WHIP is decided on as follows
     1. The champion informs the WiHi community that the WHIP is ready to be decided on by stating this clearly in the WHIP’s thread in the WHIP channel on discord and tagging the moderator who opened the WHIPs thread in this message. 
-    2. A moderator creates a voting proposal within the "WiHi Gov Committee" realm and informs the core team in a message in the WHIPs thread on Discord by tagging them and sharing the link to the vote proposal.
+    2. A moderator creates a voting proposal within the "WiHi DAO" realm and informs the core team in a message in the WHIPs thread on Discord by tagging them and sharing the link to the vote proposal.
     2. The status of WHIPs is changed to "Voting open" by a moderator and the link to the on-chain proposal is added to the WHIP, after which no more changes can be made to the document. 
     2. The voting period is 7 days. 
     2. Each core team member can cast their vote (accept/ reject/ abstain) on-chain on the WHIP via realms. Non-voting is counted as abstaining. For the time being, core team members have one vote each and simple majority decides.  
@@ -66,5 +66,5 @@ The core motivation for the currently illustrated WHIP process is to have a simp
 
 # Rationale
 
-It is okay to restrict the decision decision making to the core team at the moment as these are the individuals that represent by far the greatest voting power in the WiHi ecosystem. As soon as other individuals will have voting power in the system, this will be adjusted with priority.
+It is okay to restrict the decision making to the core team at the moment as these are the individuals that represent by far the greatest voting power in the WiHi ecosystem. As soon as other individuals will have voting power in the system, this will be adjusted with priority.
 

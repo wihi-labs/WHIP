@@ -6,12 +6,13 @@
 ## Type 
 Governance
 
-# Abstract [max 200 words]
+# Abstract 
+This WHIP illustrates the legal wrapper of the WiHi DAO.
 
 # Specification
-The IP-holding entity of WiHi should be a commercial registered non-profit Swiss association. This association is overseen by WiHi token holders: Members of the association are the delegates illustrated in [WHIP-0007](https://github.com/wihi-labs/WHIP/blob/main/0007-voting/main.md). WiHi token holders exercise control over the association's general meetings via delegating tokens to these members, which includes the election of the governance committee. The exact voting mechanism follows the principles outlined in [WHIP-0007](https://github.com/wihi-labs/WHIP/blob/main/0007-voting/main.md). The association defines the minimal acceptance criteria for members such that Sybil attacks on the voting mechanism are prevented. 
+The IP-holding entity of WiHi should be a Swiss  non-profit association. This association is overseen by WiHi token holders: Members of the association are the delegates illustrated in [WHIP-0007](https://github.com/wihi-labs/WHIP/blob/main/0007-voting/main.md). WiHi token holders exercise control over the association's general meetings via delegating tokens to these members, which includes the election of the governance committee. The exact voting mechanism follows the principles outlined in [WHIP-0007](https://github.com/wihi-labs/WHIP/blob/main/0007-voting/main.md). The association defines the minimal acceptance criteria for members such that Sybil attacks on the voting mechanism are prevented. 
 
-The association holds intellectual property and system funds.   
+The association holds intellectual property and off-chain system funds.   
 
 In summary, WiHi should established a Swiss association as a legal entity to handle off-chain governance with the following attributes:
 

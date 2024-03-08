@@ -12,4 +12,4 @@
 
 # Motivation [(of the authors) for proposing the improvement]
 
-# (Rationale [of design decisions within the specification])
+# Rationale [(of design decisions within the specification)]

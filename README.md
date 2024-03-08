@@ -29,14 +29,16 @@ The following listing of WHIPs constitute the current WiHi system and the histor
 | 3 | [Ambassador Program](0003-ambassador-program.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img>  |
 | 4 | [Idea Market](0004-idea-market.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img>   |
 | 5 | [Expert Program](0005-expert-program.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img>   |
-| 6 | [Tokenomics](0006-tokenomics/main.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
+| 6 | [Tokenomics](0006-tokenomics/main.md) | <img src="https://img.shields.io/badge/Status-Closed-lightgrey"></img>   |
 | 7 | [Voting](0007-voting/main.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
-| 8 | [Legal Structure](0008-legal-structure/main.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
-| 9 | [Air Quality Data](0009-air-quality-data.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
-| 10 | [Builder Program](0010-builder-program.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
-| 11 | [WiHi Points](0011-WIPO.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
-| 12 | [Initial Governance](0012-initial-governance.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
-| 13 | [Initial Voting](0013-initial-voting.md) | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img> |
+| 8 | [Legal Structure](0008-legal-structure/main.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
+| 9 | [Air Quality Data](0009-air-quality-data.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
+| 10 | [Builder Program](0010-builder-program.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
+| 11 | [WiHi Points](0011-WIPO.md) |  <img src="https://img.shields.io/badge/Status-Closed-lightgrey"></img> |
+| 12 | [Initial Governance](0012-initial-governance.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
+| 13 | [Initial Voting](0013-initial-voting.md) |<img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
+| 14 | [Dual Token](0014-dual-token.md) | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> |
+
 
 ## Status Key
 
@@ -45,7 +47,7 @@ The following listing of WHIPs constitute the current WiHi system and the histor
 | Draft         | <img src="https://img.shields.io/badge/Status-Draft-yellow"></img>           | WHIP is in process of being written; author is not yet soliciting feedback from the community |
 | In Discussion | <img src="https://img.shields.io/badge/Status-In%20Discussion-orange"></img> | WHIP is under active consideration by the community                                                    |
 | Voting Open   | <img src="https://img.shields.io/badge/Status-Voting_Open-cyan"></img>       | WHIP is currently being voted on
-| Approved      | <img src="https://img.shields.io/badge/Status-Approved-green"></img>         | WHIP has been approved by rough consensus, and pending development and testing                         |
+| Approved      | <img src="https://img.shields.io/badge/Status-Approved-green"></img>         | WHIP has been approved by voting, and pending development and testing                         |
 | Deployed      | <img src="https://img.shields.io/badge/Status-Deployed-blue"></img>          | Code to implement WHIP has been merged and deployed to the network                                     |
 | Rejected      | <img src="https://img.shields.io/badge/Status-Rejected-red"></img>           | WHIP did not pass voting                                                                               |
 | Closed        | <img src="https://img.shields.io/badge/Status-Closed-lightgrey"></img>       | WHIP abandoned, rendered obsolete by other changes, or otherwise withdrawn by the author               |
